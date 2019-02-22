@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/vincentmuriuki/po-bc.svg?branch=master)](https://travis-ci.org/vincentmuriuki/po-bc)
-[![Coverage Status](https://coveralls.io/repos/github/vincentmuriuki/po-bc/badge.svg?branch=master)](https://coveralls.io/github/vincentmuriuki/po-bc?branch=master)
+[![Build Status](https://travis-ci.org/vincentmuriuki/po-bc.svg?branch=develop)](https://travis-ci.org/vincentmuriuki/po-bc)
+[![Coverage Status](https://coveralls.io/repos/github/vincentmuriuki/po-bc/badge.svg?branch=master)](https://coveralls.io/github/vincentmuriuki/po-bc?branch=develop)
 [![Maintainability](https://api.codeclimate.com/v1/badges/98839bb0ddc00b01c76d/maintainability)](https://codeclimate.com/github/vincentmuriuki/po-bc/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/98839bb0ddc00b01c76d/test_coverage)](https://codeclimate.com/github/vincentmuriuki/po-bc/test_coverage)
